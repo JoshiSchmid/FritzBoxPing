@@ -1,0 +1,13 @@
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\obj\Debug\netcoreapp3.1\FritzBoxPing.csprojAssemblyReference.cache
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\obj\Debug\netcoreapp3.1\FritzBoxPing.AssemblyInfoInputs.cache
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\obj\Debug\netcoreapp3.1\FritzBoxPing.AssemblyInfo.cs
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\obj\Debug\netcoreapp3.1\FritzBoxPing.csproj.CoreCompileInputs.cache
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\bin\Debug\netcoreapp3.1\FritzBoxPing.exe
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\bin\Debug\netcoreapp3.1\FritzBoxPing.deps.json
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\bin\Debug\netcoreapp3.1\FritzBoxPing.runtimeconfig.json
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\bin\Debug\netcoreapp3.1\FritzBoxPing.runtimeconfig.dev.json
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\bin\Debug\netcoreapp3.1\FritzBoxPing.dll
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\bin\Debug\netcoreapp3.1\FritzBoxPing.pdb
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\obj\Debug\netcoreapp3.1\FritzBoxPing.dll
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\obj\Debug\netcoreapp3.1\FritzBoxPing.pdb
+C:\Users\JSchmid\source\repos\FritzBoxPing\FritzBoxPing\obj\Debug\netcoreapp3.1\FritzBoxPing.genruntimeconfig.cache
